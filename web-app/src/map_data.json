@@ -1,0 +1,204 @@
+{
+    "worldMap": {
+        "width": 1664,
+        "height": 1240,
+        "sectors": [
+            {
+                "id": "aegis",
+                "nombre": "Aegis, Fortaleza Flotante",
+                "coords": [
+                    [760, 658],
+                    [876, 824],
+                    [756, 994],
+                    [623, 832]
+                ]
+            },
+            {
+                "id": "valdoria",
+                "nombre": "Sector Valdoriano",
+                "coords": [
+                    [412, 606],
+                    [420, 792],
+                    [404, 942],
+                    [150, 1216],
+                    [180, 394]
+                ]
+            },
+            {
+                "id": "arkhos",
+                "nombre": "Sector Arkhos",
+                "coords": [
+                    [418, 610],
+                    [482, 588],
+                    [502, 470],
+                    [452, 152],
+                    [268, 316]
+                ]
+            },
+            {
+                "id": "umbara",
+                "nombre": "Sector Umbaran",
+                "coords": [
+                    [516, 452],
+                    [602, 498],
+                    [684, 548],
+                    [828, 156],
+                    [480, 118]
+                ]
+            },
+            {
+                "id": "veranthos",
+                "nombre": "Sector Veranthos",
+                "coords": [
+                    [724, 460],
+                    [802, 548],
+                    [896, 638],
+                    [1050, 446],
+                    [836, 164]
+                ]
+            },
+            {
+                "id": "severyn",
+                "nombre": "Sector Severyn",
+                "coords": [
+                    [886, 634],
+                    [934, 828],
+                    [888, 990],
+                    [1076, 1166],
+                    [1070, 464]
+                ]
+            },
+            {
+                "id": "kaijin",
+                "nombre": "Sector Kaijin",
+                "coords": [
+                    [718, 1154],
+                    [788, 1062],
+                    [905, 989],
+                    [1079, 1170],
+                    [821, 1484]
+                ]
+            },
+            {
+                "id": "al-rashid",
+                "nombre": "Sector Al-Rashid",
+                "coords": [
+                    [513, 1192],
+                    [608, 1151],
+                    [709, 1149],
+                    [818, 1480],
+                    [455, 1511]
+                ]
+            },
+            {
+                "id": "marcas-destrozadas",
+                "nombre": "Las Marcas Destrozadas",
+                "coords": [
+                    [407, 948],
+                    [477, 1033],
+                    [504, 1173],
+                    [455, 1505],
+                    [335, 1405],
+                    [160, 1241]
+                ]
+            }
+        ]
+    },
+    "regionalMaps": {
+        "aegis": {
+            "width": 1920, "height": 1080,
+            "locaciones": [
+                {
+                    "nombre": "Centro de Mando",
+                    "descripcion": "El corazón estratégico de la SIC.",
+                    "coords": { "y": 540, "x": 960 }
+                }
+            ]
+        },
+        "valdoria": {
+            "width": 1920, "height": 1080,
+            "locaciones": [
+                {
+                    "nombre": "Solédar",
+                    "descripcion": "La capital del Aura, reconstruida sobre el cráter del Primer Rift.",
+                    "coords": { "y": 540, "x": 960 }
+                },
+                {
+                    "nombre": "Puerto Esperanza",
+                    "descripcion": "El centro del gobierno civil y el comercio valdoriano.",
+                    "coords": { "y": 300, "x": 400 }
+                }
+            ]
+        },
+        "arkhos": {
+            "width": 1920, "height": 1080,
+            "locaciones": [
+                {
+                    "nombre": "Aethelburg",
+                    "descripcion": "La imponente capital corporativa de Arkhos.",
+                    "coords": { "y": 600, "x": 800 }
+                }
+            ]
+        },
+        "umbara": {
+            "width": 1920, "height": 1080,
+            "locaciones": [
+                {
+                    "nombre": "Nyahara",
+                    "descripcion": "Ciudad capital de Umbara, sin muros, en armonía con la naturaleza.",
+                    "coords": { "y": 700, "x": 1000 }
+                }
+            ]
+        },
+        "veranthos": {
+            "width": 1920, "height": 1080,
+            "locaciones": [
+                {
+                    "nombre": "Aurelian",
+                    "descripcion": "La elegante capital de Veranthos, cuna de academias arcanas.",
+                    "coords": { "y": 500, "x": 900 }
+                }
+            ]
+        },
+        "severyn": {
+            "width": 1920, "height": 1080,
+            "locaciones": [
+                {
+                    "nombre": "Zhelegrad",
+                    "descripcion": "La ciudad-fortaleza subterránea de Severyn.",
+                    "coords": { "y": 400, "x": 1100 }
+                }
+            ]
+        },
+        "kaijin": {
+            "width": 1920, "height": 1080,
+            "locaciones": [
+                {
+                    "nombre": "Tenshiro",
+                    "descripcion": "La capital de Kaijin, construida en los picos de las montañas.",
+                    "coords": { "y": 650, "x": 1200 }
+                }
+            ]
+        },
+        "al-rashid": {
+            "width": 1920, "height": 1080,
+            "locaciones": [
+                {
+                    "nombre": "Qasr Dhahab",
+                    "descripcion": "La capital de Al-Rashid, el centro del comercio de Rifts.",
+                    "coords": { "y": 800, "x": 1400 }
+                }
+            ]
+        },
+        "marcas-destrozadas": {
+            "width": 1920, "height": 1080,
+            "locaciones": [
+                {
+                    "nombre": "El Silencio",
+                    "descripcion": "El epicentro de la catástrofe original, un cráter de cristal negro.",
+                    "coords": { "y": 700, "x": 900 }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,11 @@
+/* Global CSS for the React App */
+html, body, #root, .App {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative; /* Establish positioning context */
+    background-color: #1a1a1a;
+    overflow: hidden;
+    font-family: 'Arial', sans-serif;
+}
+

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test de Leaflet</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        html, body, #map { height: 100%; margin: 0; padding: 0; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            console.log("Iniciando test.html...");
+            const map = L.map('map', {
+                crs: L.CRS.Simple,
+                minZoom: -2
+            });
+
+            const imageUrl = '/Nexus.png';
+            const imageWidth = 1664;
+            const imageHeight = 1240;
+            const bounds = [[0, 0], [imageHeight, imageWidth]];
+
+            const overlay = L.imageOverlay(imageUrl, bounds);
+
+            overlay.on('load', () => {
+                console.log("ÉXITO (test.html): Imagen cargada.");
+                map.fitBounds(bounds);
+            });
+
+            overlay.on('error', () => {
+                console.error("ERROR CRÍTICO (test.html): No se pudo cargar la imagen en " + imageUrl);
+                document.getElementById('map').innerHTML = '<h1 style="color:red;">Error al cargar la imagen. Revisa la consola.</h1>';
+            });
+
+            overlay.addTo(map);
+        });
+    </script>
+</body>
+</html>

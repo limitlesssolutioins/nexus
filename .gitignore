@@ -1,0 +1,28 @@
+# Dependencias de Node (Web App)
+node_modules/
+web-app/node_modules/
+web-app/dist/
+web-app/.vite/
+
+# Archivos de Compilación C++
+build/
+*.exe
+*.obj
+*.dll
+*.o
+*.a
+
+# Logs y Temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# Configuraciones locales de editores
+.vscode/
+.idea/
+.claude/
+
+# Obsidian (Cache y estado del espacio de trabajo)
+StoryBible/.obsidian/workspace
+StoryBible/.obsidian/cache
+StoryBible/.obsidian/workspace.json
