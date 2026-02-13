@@ -1,4 +1,4 @@
-# Echoes of the Rift — Story Bible
+# Nexus — Story Bible
 
 > *"Dicen que cuando miras dentro de un Rift, el Rift te devuelve la mirada."*
 
@@ -24,9 +24,48 @@
 | [[Severyn]] | Rusia | [[El Zar de Hierro]] | Fuerza bruta estatal |
 
 ### Personajes Clave
-- [[El Protagonista]]
-- [[Marcos Ureña]] — El Primer Cazador
-- Ver carpeta `Characters/` para todos
+
+#### Protagonista y Mentor
+- [[El Protagonista]] — Linaje Primordial, 6 disciplinas
+- [[Marcos Ureña]] — El Primer Cazador (Valdoria)
+
+#### Líderes de Facción Humana
+- [[Kane Mercer]] — Director de Meridian Corp (Arkhos)
+- [[Celene Valfort]] — Archiduquesa, guardiana del Sello (Veranthos)
+- [[Ryusei Takeda]] — Gran Maestro, 30 años invicto (Kaijin)
+- [[Viktor Drakov]] — El Zar de Hierro (Severyn)
+- [[Farid Al-Rashid]] — El Sultán de las Mil Monedas (Al-Rashid)
+- [[Amara Diallo]] — La Voz del Silencio (Umbara)
+
+#### Líderes Enemigos
+- [[Kael'Tharis]] — El Heraldo de Atherion (SSS)
+- [[Orath Drak]] — El Primer Muerto de Drak'Vor (SS)
+
+#### Secundarios Humanos
+- [[Daisuke]] — El Desertor (ex-Kaijin → mercenario → potenciado por Atherion)
+- [[Nia]] — La Caminante Ciega (Umbara)
+- [[Tariq Hassani]] — Visir, jefe de espionaje (Al-Rashid)
+- [[Sarah Voss]] — CEO de Aegis Solutions (Arkhos)
+- [[Anya Volkov]] — General, Los Lobos (Severyn)
+- [[Gregor Malyk]] — Doctor, Programa Invierno/Vacío (Severyn)
+- [[Yuki Aosora]] — Pilar del Viento Cortante (Kaijin)
+- [[El Archivista]] — Custodio de la Bóveda Ancestral (Veranthos)
+- [[Valentina Rojas]] — Sol de Acero (Valdoria)
+- [[Jack Morrison]] — Cazador S mediático, Thunderbolt Corps (Arkhos)
+- [[Layla Al-Rashid]] — Princesa, la que no sabe (Al-Rashid)
+
+#### Secundarios Enemigos
+- [[Syra'Vyn]] — Soberana de la Venganza (Atherion, SS)
+- [[Vehn'Dor]] — Soberano Diplomático (Atherion, SS)
+- [[Archiliche Morvyn]] — La Tejedora de Huesos (Drak'Vor, S)
+- [[Lord Vykar]] — El Recolector (Drak'Vor, S)
+
+#### Mencionados (sin archivo propio aún)
+- Kofi Aste — Guardián, líder de Jóvenes Leones (Umbara)
+- Thalynn — Pilar de Agua (Nethara)
+- Senador Diego Ferrán — Político corrupto (Valdoria)
+- Marcus Webb — CEO de Prism Industries (Arkhos)
+- General Lucía Montero — Militar (Valdoria)
 
 ### Facciones Enemigas — Los Planos Exteriores
 | Plano | Tipo | Líder | Amenaza | Aparición |

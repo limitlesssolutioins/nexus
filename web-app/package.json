@@ -4,6 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "content:generate": "node scripts/generate-storybible.mjs",
+    "predev": "npm run content:generate",
+    "prebuild": "npm run content:generate",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",

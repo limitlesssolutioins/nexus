@@ -1,11 +1,328 @@
-/* Global CSS for the React App */
-html, body, #root, .App {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    position: relative; /* Establish positioning context */
-    background-color: #1a1a1a;
-    overflow: hidden;
-    font-family: 'Arial', sans-serif;
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+  color: #ece6d6;
+  background:
+    radial-gradient(circle at 10% 0%, #1f2d3d, transparent 40%),
+    radial-gradient(circle at 100% 100%, #3b2f27, transparent 45%),
+    #0f1318;
+}
+
+.nexus-app {
+  height: 100%;
+  display: grid;
+  grid-template-columns: 320px 1fr;
+}
+
+.sidebar {
+  border-right: 1px solid #2f3f52;
+  background: rgba(9, 14, 20, 0.92);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.brand h1 {
+  margin: 0;
+  font-size: 1.9rem;
+}
+
+.brand-kicker {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #9ab3cb;
+  font-size: 0.72rem;
+}
+
+.brand-meta {
+  margin: 6px 0 0;
+  color: #a7b0b9;
+  font-size: 0.83rem;
+}
+
+.search-wrap {
+  margin: 14px 0 12px;
+}
+
+.search-input {
+  width: 100%;
+  border: 1px solid #3d5168;
+  border-radius: 10px;
+  background: #101822;
+  color: #ece6d6;
+  padding: 10px 12px;
+}
+
+.entry-list {
+  overflow: auto;
+  padding-right: 4px;
+}
+
+.entry-group h2 {
+  margin: 12px 0 8px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #90a9bf;
+}
+
+.entry-item {
+  width: 100%;
+  text-align: left;
+  border: 1px solid transparent;
+  background: #141d28;
+  color: #ece6d6;
+  border-radius: 10px;
+  padding: 8px 10px;
+  margin-bottom: 6px;
+  cursor: pointer;
+  display: grid;
+  gap: 3px;
+}
+
+.entry-item small {
+  color: #91a1ad;
+}
+
+.entry-item.active {
+  border-color: #5f8ab5;
+  background: #1e2b3a;
+}
+
+.workspace {
+  min-width: 0;
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+
+.toolbar {
+  border-bottom: 1px solid #2f3f52;
+  padding: 12px 16px;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+  background: rgba(17, 24, 32, 0.88);
+}
+
+.tabs {
+  display: flex;
+  gap: 8px;
+}
+
+.tab {
+  border: 1px solid #41576d;
+  border-radius: 999px;
+  padding: 7px 12px;
+  cursor: pointer;
+  background: transparent;
+  color: #d9d2bf;
+}
+
+.tab.active {
+  background: #2d465e;
+  border-color: #7ea8cf;
+}
+
+.selected-path {
+  margin: 0;
+  color: #9daaba;
+  font-size: 0.85rem;
+}
+
+.panel {
+  padding: 16px;
+  overflow: auto;
+}
+
+.entry-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.entry-header h2 {
+  margin: 0 0 8px;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: flex-end;
+}
+
+.chip {
+  border: 1px solid #6388ab;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  padding: 4px 9px;
+  color: #cde2f7;
+}
+
+.chip.secondary {
+  border-color: #7a725a;
+  color: #e3d7b8;
+}
+
+.entry-content {
+  max-width: 900px;
+}
+
+.entry-content h1,
+.entry-content h2,
+.entry-content h3 {
+  color: #e6dcc4;
+}
+
+.entry-content p,
+.entry-content li {
+  line-height: 1.48;
+  color: #ded7c9;
+}
+
+.entry-content blockquote {
+  border-left: 3px solid #738ea8;
+  margin: 12px 0;
+  padding: 8px 12px;
+  background: rgba(115, 142, 168, 0.12);
+}
+
+.table-line {
+  margin: 6px 0;
+  padding: 6px 8px;
+  background: #171f29;
+  border: 1px solid #2b3b4e;
+  border-radius: 8px;
+  overflow: auto;
+  color: #cbc3ac;
+}
+
+.inline-link,
+.ghost-link,
+.graph-link {
+  border: none;
+  background: none;
+  color: #7ab6f0;
+  cursor: pointer;
+  padding: 0;
+  text-align: left;
+}
+
+.inline-link:hover,
+.ghost-link:hover,
+.graph-link:hover {
+  color: #a8d5ff;
+  text-decoration: underline;
+}
+
+.timeline {
+  display: grid;
+  gap: 10px;
+}
+
+.timeline-event {
+  border: 1px solid #34495e;
+  border-radius: 12px;
+  padding: 10px 12px;
+  background: #151f2b;
+}
+
+.timeline-era {
+  margin: 0 0 4px;
+  color: #8daccc;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.graph-view {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.graph-view article {
+  border: 1px solid #33475d;
+  border-radius: 12px;
+  background: #121b25;
+  padding: 12px;
+  display: grid;
+  gap: 8px;
+}
+
+.muted {
+  color: #98a4b0;
+  margin: 0;
+}
+
+.map-view {
+  position: relative;
+  height: min(78vh, 900px);
+  min-height: 420px;
+  border: 1px solid #384d62;
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.map-canvas {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.35s ease;
+  background: #0d1219;
+}
+
+.map-canvas.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.map-back-button {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 10000;
+  border: 1px solid #5f83a8;
+  background: rgba(10, 17, 25, 0.88);
+  color: #e5e8ec;
+  border-radius: 10px;
+  padding: 8px 10px;
+  cursor: pointer;
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: rgba(17, 23, 31, 0.94);
+  color: #ece6d6;
+}
+
+@media (max-width: 980px) {
+  .nexus-app {
+    grid-template-columns: 1fr;
+    grid-template-rows: 38vh 1fr;
+  }
+
+  .sidebar {
+    border-right: none;
+    border-bottom: 1px solid #2f3f52;
+  }
+
+  .graph-view {
+    grid-template-columns: 1fr;
+  }
 }
 
