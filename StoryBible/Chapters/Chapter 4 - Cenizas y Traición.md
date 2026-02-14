@@ -1,63 +1,47 @@
 ---
 tags: [capitulo]
 numero: 4
-titulo: "Cenizas y Traición"
-periodo_temporal: Año 2-3
-ubicacion_principal: Global — guerra en múltiples frentes
+titulo: "El Ocaso de la Razón"
+periodo_temporal: Año 15-19 (El Colapso)
+ubicacion_principal: Global (Múltiples Frentes Colapsando)
 ---
 
-# Capítulo 4 — "Cenizas y Traición"
+# Capítulo 4 — "El Ocaso de la Razón"
+
+> *"No hubo un día específico en que todo se fue al infierno. Fue una caída lenta, y estábamos demasiado ocupados peleando entre nosotros para notar el suelo acercándose."*
 
 ## Resumen
-La guerra fría se convierte en guerra caliente. Facciones chocan directamente. Los Rifts escalan fuera de control. La verdad sobre el protagonista sale a la luz. Marcos Ureña enfrenta su destino. Alianzas se rompen y se reforjan. El capítulo termina con la apertura del Rift SS — el más grande jamás visto — que obliga a TODAS las facciones a unirse por primera vez.
+La sociedad civil empieza a desmoronarse. Las Zonas Seguras ya no son seguras. Aparecen "Rifts de Silencio" que borran ciudades enteras de la realidad sin violencia, solo desaparecen. El Protagonista, ahora una leyenda cansada y marcada por cicatrices, intenta unificar a las facciones restantes contra la verdadera amenaza: **El Círculo Interior**, un culto nihilista infiltrado en todos los gobiernos que quiere acelerar la fusión de mundos.
 
 ## Temas
-- Las consecuencias de las decisiones (del protagonista y de las facciones)
-- ¿Puede el mundo cooperar cuando más importa?
-- Sacrificio: quién está dispuesto a dar qué
-- La verdad no libera — la verdad incendia
+- **Desesperanza:** ¿Vale la pena salvar un mundo que se autodestruye?
+- **La Verdad Oculta:** Los Rifts son un mecanismo de defensa del Nexo.
+- **Unificación Forzada:** El enemigo de mi enemigo es mi único amigo vivo.
 
 ---
 
-## Estructura
+## Eventos Clave
 
-### Acto 1 — El Mundo Arde
-- Conflicto abierto entre facciones (no guerra total, pero enfrentamientos directos)
-- Los Rifts se descontrolan: frecuencia y grado aumentan dramáticamente
-- El protagonista debe elegir alianzas definitivas o intentar mediar (imposible complacer a todos)
-- Marcos Ureña empeora físicamente. Su transformación se acelera.
+### Año 15: La Caída de Umbara
+Los místicos de Umbara descubren cómo estabilizar los Rifts sin violencia.
+El Círculo Interior lanza un ataque preventivo. Usan armas orbitales de Arkhos (hackeadas o prestadas) para vaporizar los templos de Umbara.
+El Protagonista llega tarde. Solo puede salvar a **Nia** (ahora la líder ciega de los supervivientes).
+Nia revela la profecía final: *"El Gran Silencio viene. El Nexo va a cerrar la puerta, y nosotros estamos en el umbral. Nos van a aplastar."*
 
-### Acto 2 — Revelaciones
-- La verdadera naturaleza del protagonista se revela: no es un cazador normal, está conectado con los Rifts de una forma fundamental
-- Veranthos abre (o se les roba) los archivos sellados: la humanidad ha interactuado con los Rifts antes. El patrón se repite.
-- Severyn revela su verdadero poder: los cazadores del Programa Invierno son aterradores... y están muriendo lentamente
-- Marcos revela todo lo que sabe: la voz del Rift, lo que hay debajo, lo que él se está convirtiendo
+### Año 17: El Golpe de Estado Global
+El Círculo Interior se revela. Asesinatos simultáneos de líderes moderados en Valdoria, Kaijin y Severyn.
+El mundo cae en anarquía.
+El Protagonista, **Valentina Rojas** (ahora General), **Yuki Aosora** (Gran Maestra) y los remanentes leales forman "La Resistencia".
+Operan desde las ruinas de Solédar. Es una guerra de guerrillas contra sus propios gobiernos corruptos y contra los Rifts descontrolados.
 
-### Acto 3 — El Punto de No Retorno
-- Un evento catastrófico (relacionado con la escalada de Rifts) obliga a las facciones a negociar
-- El protagonista, con la información que tiene, se convierte en la pieza central
-- Pero no todos quieren paz — algunos quieren usar el caos para ganar poder
-- Una traición final (de alguien cercano, no por maldad sino por convicción genuina)
+### Año 19: La Última Transmisión
+Marcos Ureña muere (o trasciende). Su conciencia, fusionada con la red de cristales, envía un mensaje a todo el planeta.
+Revela la ubicación del **Nexo Primario** (en las Marcas Destrozadas) y la fecha exacta del colapso final.
+Su muerte sacude al mundo. La vergüenza de haber fallado al Primer Héroe detiene las luchas internas.
+Las facciones derrocan al Círculo Interior en una noche de cuchillos largos.
+Se forma la **Gran Coalición**.
+El objetivo es único: Ir al Nexo. Asaltar el cielo.
 
-### Giro Final — El Rift Absoluto
-- Se abre un Rift grado SS. El primero en la historia. Negro con vetas de luz. Inmenso.
-- De él salen criaturas que hacen palidecer a todo lo anterior
-- Todas las facciones comprenden: o cooperan o mueren
-- Se forma la primera coalición global real
-- El protagonista mira el Rift y SABE lo que hay del otro lado
+**El Escenario está listo para el Capítulo 5 (Año 20).**
 
-> *"Ya no son monstruos. Son un ejército. Y vienen por una razón."*
-
-**→ Conecta directamente con el [[Chapter 0 - Prólogo (In Medias Res)|Prólogo]]**
-
----
-
-## Por Desarrollar
-> Arco específico de Marcos Ureña (¿muere? ¿se transforma? ¿se sacrifica?)
-> Cuál es la traición del Cap 4 y quién la ejecuta
-> Qué revelan los archivos de Veranthos exactamente
-> Cómo se forma la coalición — qué sacrifica cada facción para unirse
-
-## Notas
-- **Tono:** Épico y trágico. Esto es el "Red Wedding" + "Battle of Winterfell" del juego.
-- **Gameplay:** Las decisiones previas determinan qué aliados tienes, qué recursos, qué información.
+**Fin del Capítulo 4**

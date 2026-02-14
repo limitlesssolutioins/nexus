@@ -1,75 +1,25 @@
 ---
-tags: [lore]
+tags: [lore, timeline]
 ---
 
 # Timeline de Echoes of the Rift
 
-## Pre-Historia (500+ años antes) #secreto
-- Eventos similares a los Rifts ocurrieron antes. Los ancestros de [[Veranthos]] estuvieron involucrados.
-- El aura existía en alguna forma. Los registros fueron sellados.
-- [[Umbara]] tiene tradiciones orales que hablan de "cuando la tierra habló"
+## El Gran Desgarro (Año 0)
+- **Día 0:** El cielo se rompe. **Marcos Ureña** cierra el primer Rift en Solédar.
+- El mundo entra en estado de shock. Caída de mercados, religiones y fronteras.
 
----
+## La Era de la Adaptación (Años 1 - 5)
+- **Año 1:** Se funda AEGIS. Los Rifts menores se vuelven constantes.
+- **Año 3:** La tecnología de Aura se integra en la vida urbana (energía de cristal).
+- **Año 5 (Inicio Capítulo 1):** El mundo ha aceptado la "Nueva Normalidad". **El Protagonista despierta su Aura** durante un incidente rutinario en Solédar.
 
-## Año 0 — El Primer Rift ([[Chapter 1 - El Día que el Cielo se Rompió|Cap 1]])
+## La Guerra Larga (Años 6 - 15)
+- **Año 8:** Estalla la "Guerra de los Cristales" entre Arkhos y Severyn. El Protagonista asciende a Rango A.
+- **Año 10:** Los Rifts empiezan a evolucionar. Aparecen las primeras "Zonas de Silencio" (áreas donde la realidad es inestable).
+- **Año 12:** Marcos Ureña se retira del frente debido a la "Cristalización Pulmonar" (su aura está convirtiendo sus órganos en cristal).
+- **Año 15:** El Protagonista se convierte en una figura clave de la resistencia/orden global.
 
-| Mes | Evento |
-|-----|--------|
-| Mes 1 | El Primer Rift se abre en Valdoria. Caos global. |
-| Mes 1 | [[Marcos Ureña]] despierta. Cierra el Rift. Queda destrozado. |
-| Mes 1-2 | Se descubren los [[Cristales de Aura]]. Revolución. |
-| Mes 2-3 | [[Arkhos]] envía "ayuda" a Valdoria. Se lleva cristales e investigación. |
-| Mes 3-4 | Más Rifts aparecen globalmente (grado E-D). Más despertares de aura. |
-| Mes 4-6 | [[Kaijin]] crea el primer programa formal de entrenamiento de cazadores. |
-| Mes 5-6 | [[Veranthos]] convoca conferencia. Nace la idea de la [[La Alianza Internacional]]. |
-| Mes 6+ | [[Al-Rashid]] comienza a comprar y comerciar cristales masivamente. |
-| Mes 6+ | [[Severyn]] no confirma ni niega nada sobre cazadores propios. |
-| Mes 8-10 | [[El Protagonista]] despierta en el cráter del Primer Rift. Anomalía total. |
-
----
-
-## Año 0-1 — La Carrera ([[Chapter 2 - La Carrera por el Poder|Cap 2]])
-
-| Periodo | Evento |
-|---------|--------|
-| Mes 10-12 | Marcos Ureña entrena al protagonista. |
-| Año 1 Q1 | La Alianza Internacional se formaliza. Veranthos la lidera. Severyn rechaza unirse. |
-| Año 1 Q1-Q2 | Las facciones intentan reclutar al protagonista. |
-| Año 1 Q2 | Protagonista entra a su primer Rift real. Ascenso rápido E→D→C. |
-| Año 1 Q3 | El Rift grado A en zona disputada Valdoria-Arkhos. El protagonista lo cierra violando protocolos. |
-| Año 1 Q4 | Consecuencias políticas. El protagonista ya es una figura pública. |
-
----
-
-## Año 1-2 — Guerra Fría ([[Chapter 3 - Guerra Fría|Cap 3]])
-
-| Periodo | Evento |
-|---------|--------|
-| Año 1 Q4 | Tensiones en la Alianza escalan. |
-| Año 2 Q1 | Rifts empiezan a abrirse en patrones sospechosos. |
-| Año 2 Q1-Q2 | Investigación del protagonista. Contacto con Umbara. |
-| Año 2 Q2 | Severyn revela parcialmente su programa de cazadores. |
-| Año 2 Q3 | Se descubre quién abre Rifts intencionalmente. |
-| Año 2 Q3-Q4 | La información se convierte en arma política. |
-
----
-
-## Año 2-3 — Cenizas ([[Chapter 4 - Cenizas y Traición|Cap 4]])
-
-| Periodo | Evento |
-|---------|--------|
-| Año 3 Q1 | Conflictos abiertos entre facciones. |
-| Año 3 Q1-Q2 | Rifts escalan fuera de control. |
-| Año 3 Q2 | Revelaciones sobre el protagonista y los archivos de Veranthos. |
-| Año 3 Q3 | La gran traición. Marcos Ureña enfrenta su destino. |
-| Año 3 Q4 | **El Rift SS se abre.** Todo cambia. |
-
----
-
-## Año 4 — El Rift Absoluto ([[Chapter 5 - El Rift Absoluto|Cap 5]])
-
-| Periodo | Evento |
-|---------|--------|
-| Año 4 Q1 | Coalición de emergencia. 7 facciones juntas. |
-| Año 4 Q1 | **La Batalla** — El Prólogo alcanzado y superado. |
-| Año 4 Q1 | El protagonista entra al Rift SS. Verdad final. Decisión. |
+## El Ocaso de la Humanidad (Años 16 - 20)
+- **Año 18:** Las conspiraciones del Círculo Interior debilitan los Sellos Mundiales. Umbara cae.
+- **Año 19:** Marcos Ureña desaparece de la vida pública. Se rumorea que busca una forma de revertir el proceso de los Rifts.
+- **Año 20 (Capítulo 5 / Prólogo):** El **Rift Absoluto** se manifiesta. La Gran Coalición lanza su último ataque. El Protagonista, tras 15 años de lucha desde su despertar, lidera el asalto.

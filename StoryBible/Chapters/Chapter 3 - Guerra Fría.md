@@ -1,56 +1,51 @@
 ---
 tags: [capitulo]
 numero: 3
-titulo: "Guerra Fría"
-periodo_temporal: Año 1-2
-ubicacion_principal: Múltiples facciones
+titulo: "Guerra de Desgaste"
+periodo_temporal: Año 8-12 (La Guerra de los Cristales)
+ubicacion_principal: Frontera Arkhos-Severyn / Ruinas de Antiguas Ciudades
 ---
 
-# Capítulo 3 — "Guerra Fría"
+# Capítulo 3 — "Guerra de Desgaste"
+
+> *"Al principio contábamos los días. Luego contamos las bajas. Ahora... solo contamos las municiones."*
 
 ## Resumen
-Las facciones dejan de fingir cooperación. La carrera por los cristales, el control de los Rifts, y la influencia política se convierte en una guerra no declarada. El protagonista, ahora cazador establecido (rango A), se ve atrapado entre lealtades. Verdades incómodas empiezan a emerger. Alguien está abriendo Rifts intencionalmente.
+Han pasado años. El mundo está sumido en un conflicto de baja intensidad pero constante. La "Guerra de los Cristales" entre Arkhos y Severyn ha convertido vastas zonas en tierra de nadie. El Protagonista, ahora Rango A, lidera una unidad de élite especializada en operaciones que nadie más puede hacer. La narrativa se centra en el cansancio moral y físico. Descubrimos que los Rifts están cambiando: ya no son aleatorios, responden a la agresión humana.
 
 ## Temas
-- La política como campo de batalla más mortal que un Rift
-- Lealtad vs verdad — ¿qué pasa cuando tu facción hace algo mal?
-- El precio de los cristales (literal y metafórico)
-- "¿Son los Rifts realmente el enemigo?"
+- **La Rutina del Horror:** Matar monstruos es un trabajo de oficina, solo que con sangre.
+- **Corrupción:** Las facciones están podridas. Venden vidas por cristales.
+- **Evolución:** Los enemigos están aprendiendo.
 
 ---
 
-## Estructura
+## Eventos Clave
 
-### Acto 1 — Tensiones al Límite
-- La Alianza Internacional se fractura: disputas por cristales, territorio, jurisdicción
-- [[Arkhos]] presiona por privatizar los Rifts de grado alto (más cristales para sus corporaciones)
-- [[Severyn]] rompe el silencio: anuncia que tiene un programa de cazadores propio. El mundo tiembla.
-- [[Valdoria]] descubre que Senador Ferrán vendió datos del Primer Rift a Arkhos. Escándalo nacional.
-- [[Al-Rashid]] empieza a restringir ventas de cristales (acumulando reservas en secreto)
+### Año 8: El Incidente de Ironspire
+El Protagonista es contratado (mercenario/freelance) para investigar una "fuga" en una instalación de Arkhos.
+Descubre que Arkhos está **criando** criaturas de Rift modificadas genéticamente para usarlas como armas de guerra.
+Se enfrenta a **Kane Mercer** (holograma/comunicación).
+> **Mercer:** *"Es evolución, amigo mío. O nos adaptamos, o nos extinguimos. Yo solo acelero el proceso."*
+El Protagonista destruye el laboratorio, ganándose la enemistad eterna de Arkhos.
 
-### Acto 2 — El Misterio
-- Rifts empiezan a abrirse en patrones sospechosos — como si alguien los provocara
-- El protagonista investiga (junto con aliados de Cap 2)
-- Descubre que [[Veranthos]] tiene archivos antiguos sobre eventos similares pre-modernos
-- [[Umbara]] contacta al protagonista directamente: "Necesitamos hablar. Los Rifts no son lo que crees."
-- Primer contacto profundo con los Caminantes → la inteligencia dentro de los Rifts
+### Año 10: La Tregua Rota
+Valdoria intenta mediar una paz. Se celebra una cumbre en territorio neutral.
+Un **Asesino de Sombra** (de la facción extremista de Severyn) intenta matar a los delegados.
+El Protagonista detiene el asesinato, pero el daño está hecho: la confianza se rompe.
+Se revela que **Viktor Drakov** (líder de Severyn) ya no es totalmente humano; su cuerpo es 60% cristal. La "inmortalidad" tiene un precio.
 
-### Acto 3 — Traición
-- Una facción (variable según decisiones del jugador) traiciona la confianza del protagonista
-- Un Rift grado S se abre y la respuesta es desastrosa por falta de cooperación
-- [[Marcos Ureña]] revela parcialmente su secreto: "Hay algo debajo de Solédar. Siempre lo hubo."
-- El protagonista entra al Rift S y tiene una experiencia que cambia su percepción: ve algo organizado, inteligente, no solo monstruos
+### Año 12: El Retiro de Marcos
+Marcos Ureña colapsa durante una inspección. Su "Cristalización" ha llegado a los pulmones.
+Es internado en soporte vital permanente.
+El Protagonista visita a su mentor.
+> **Marcos:** *"Mi tiempo terminó. El sol se pone. Ahora tú eres el que tiene que sostener el cielo."*
+Marcos le entrega los **Archivos del Primer Día**: la grabación de la voz que escuchó.
+El Protagonista escucha la grabación. La voz no es monstruosa. Es una voz humana, distorsionada, pidiendo ayuda desde el otro lado.
 
-### Giro Final
-- Se descubre QUIÉN abre los Rifts intencionalmente → una facción o individuo dentro de una facción
-- Esto no es simple — tienen razones que el jugador puede entender (moralmente gris)
-- El capítulo termina con el protagonista teniendo información que todas las facciones quieren... y que ninguna debería tener sola
+**El Giro:**
+Los Rifts no son invasiones. Son **gritos de auxilio** de un universo que está colapsando sobre el nuestro. Y nosotros les estamos disparando.
 
----
+**Salto Temporal → 3 Años Después**
 
-## Por Desarrollar
-> Este capítulo necesita el mayor desarrollo porque es el "cerebro" de la historia — donde la política, los misterios, y los personajes colisionan. Los Caps 1-2 lo preparan, los Caps 4-5 pagan lo que se siembra aquí.
-
-## Notas
-- **Tono:** Más oscuro. Intriga. Paranoia. Nadie es de fiar.
-- **Gameplay:** Misiones de investigación además de combate. Decisiones con consecuencias.
+**Fin del Capítulo 3**
